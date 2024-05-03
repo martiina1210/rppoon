@@ -1,0 +1,14 @@
+C:\Users\Martina\Desktop\edukos\rppoon\rppoon_dz1\bin\Debug\net7.0\rppoon_dz1.exe
+C:\Users\Martina\Desktop\edukos\rppoon\rppoon_dz1\bin\Debug\net7.0\rppoon_dz1.deps.json
+C:\Users\Martina\Desktop\edukos\rppoon\rppoon_dz1\bin\Debug\net7.0\rppoon_dz1.runtimeconfig.json
+C:\Users\Martina\Desktop\edukos\rppoon\rppoon_dz1\bin\Debug\net7.0\rppoon_dz1.dll
+C:\Users\Martina\Desktop\edukos\rppoon\rppoon_dz1\bin\Debug\net7.0\rppoon_dz1.pdb
+C:\Users\Martina\Desktop\edukos\rppoon\rppoon_dz1\obj\Debug\net7.0\rppoon_dz1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martina\Desktop\edukos\rppoon\rppoon_dz1\obj\Debug\net7.0\rppoon_dz1.AssemblyInfoInputs.cache
+C:\Users\Martina\Desktop\edukos\rppoon\rppoon_dz1\obj\Debug\net7.0\rppoon_dz1.AssemblyInfo.cs
+C:\Users\Martina\Desktop\edukos\rppoon\rppoon_dz1\obj\Debug\net7.0\rppoon_dz1.csproj.CoreCompileInputs.cache
+C:\Users\Martina\Desktop\edukos\rppoon\rppoon_dz1\obj\Debug\net7.0\rppoon_dz1.dll
+C:\Users\Martina\Desktop\edukos\rppoon\rppoon_dz1\obj\Debug\net7.0\refint\rppoon_dz1.dll
+C:\Users\Martina\Desktop\edukos\rppoon\rppoon_dz1\obj\Debug\net7.0\rppoon_dz1.pdb
+C:\Users\Martina\Desktop\edukos\rppoon\rppoon_dz1\obj\Debug\net7.0\rppoon_dz1.genruntimeconfig.cache
+C:\Users\Martina\Desktop\edukos\rppoon\rppoon_dz1\obj\Debug\net7.0\ref\rppoon_dz1.dll
