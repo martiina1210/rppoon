@@ -1,0 +1,14 @@
+C:\Users\Martina\Desktop\edukos\rppoon\rppoon_dz3\rppoon_dzedukos\obj\Debug\net7.0\rppoon_dzedukos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martina\Desktop\edukos\rppoon\rppoon_dz3\rppoon_dzedukos\obj\Debug\net7.0\rppoon_dzedukos.AssemblyInfoInputs.cache
+C:\Users\Martina\Desktop\edukos\rppoon\rppoon_dz3\rppoon_dzedukos\obj\Debug\net7.0\rppoon_dzedukos.AssemblyInfo.cs
+C:\Users\Martina\Desktop\edukos\rppoon\rppoon_dz3\rppoon_dzedukos\obj\Debug\net7.0\rppoon_dzedukos.csproj.CoreCompileInputs.cache
+C:\Users\Martina\Desktop\edukos\rppoon\rppoon_dz3\rppoon_dzedukos\bin\Debug\net7.0\rppoon_dzedukos.exe
+C:\Users\Martina\Desktop\edukos\rppoon\rppoon_dz3\rppoon_dzedukos\bin\Debug\net7.0\rppoon_dzedukos.deps.json
+C:\Users\Martina\Desktop\edukos\rppoon\rppoon_dz3\rppoon_dzedukos\bin\Debug\net7.0\rppoon_dzedukos.runtimeconfig.json
+C:\Users\Martina\Desktop\edukos\rppoon\rppoon_dz3\rppoon_dzedukos\bin\Debug\net7.0\rppoon_dzedukos.dll
+C:\Users\Martina\Desktop\edukos\rppoon\rppoon_dz3\rppoon_dzedukos\bin\Debug\net7.0\rppoon_dzedukos.pdb
+C:\Users\Martina\Desktop\edukos\rppoon\rppoon_dz3\rppoon_dzedukos\obj\Debug\net7.0\rppoon_dzedukos.dll
+C:\Users\Martina\Desktop\edukos\rppoon\rppoon_dz3\rppoon_dzedukos\obj\Debug\net7.0\refint\rppoon_dzedukos.dll
+C:\Users\Martina\Desktop\edukos\rppoon\rppoon_dz3\rppoon_dzedukos\obj\Debug\net7.0\rppoon_dzedukos.pdb
+C:\Users\Martina\Desktop\edukos\rppoon\rppoon_dz3\rppoon_dzedukos\obj\Debug\net7.0\rppoon_dzedukos.genruntimeconfig.cache
+C:\Users\Martina\Desktop\edukos\rppoon\rppoon_dz3\rppoon_dzedukos\obj\Debug\net7.0\ref\rppoon_dzedukos.dll

@@ -1,0 +1,194 @@
+/* Preimenovanje:
+          * 2.zad
+          * 
+          * class Product
+    {
+        public string Name { get; private set; } 
+        public string Price { get; private set; } 
+        public bool InStock { get; set; } 
+
+        public Product(string name, string price, bool inStock)
+        {
+            this.name = name;
+            this.price = price;
+            this.inStock = false;
+        }
+    }
+
+    class ProductManager
+    {
+        List<Product> products; 
+
+        public ProductMaganer(List<Product> products) // inventory of prods.
+        {
+            this.products=products;
+        }
+
+        public void Restock(Product product)
+        {
+            foreach (Product product in products)
+            { 
+                if (product == product)
+                    product.InStock = true;
+            }
+        }
+        public void ExpelProducts()
+        { 
+            products.RemoveAll(product => product.InStock == false);
+        }
+    } 
+
+        4. zad; 
+         public class Note
+    {
+        public string Title { get; set; }
+        public string Text { get; set; }
+        public DateTime Creation { get; private set; }
+
+        public Note(string title, string text,DateTime creation)
+        {
+            this.title = title;
+            this.text = text;
+            this.creation = DateTime.Now;
+        }
+    }
+
+    public class NoteManager
+    {
+        public string Author { get; private set; }
+        public List<Note> notes;
+
+        public NoteManager(string author)
+        {
+            Author = author;
+            notes = new List<Note>();
+        }
+
+        public void AddNote(Note note)
+        {
+            notes.Add(note);
+        }
+    }
+
+
+            5. zad;
+          public class Location
+    {
+        public DateTime Creation { get; private set; } 
+        public double Latitude { get; private set; } 
+        public double Longitude { get; private set; }
+
+        public Location(double latitude, double longitude)
+        {
+            Latitude = latitude;
+            Longitude = longitude;
+        }
+    }
+
+    public class PathManager
+    {
+        private List<Location> locations; 
+
+        public PathManager()
+        {
+           locations = new List<Location>();
+        }
+
+        public void AddLocation(Location location)
+        {
+            locations.Add(location);
+        }
+
+        public void RemoveLocation(Location location)
+        {
+            locations.Remove(location);
+        }
+    } */
+
+    Refaktoriranje:
+    zad2.
+     class Average
+    {
+        List<double> CalculateAverage(List<double[]> arrays)
+        {
+            List<double> averages = new List<double>(); 
+            foreach (double[] array in arrays)
+            {
+                averages.Add(CalculateAverage(array));
+            }
+            return avgs;
+        }
+    }
+
+     public double CalculateAverage(double[] array)
+        {
+            double average = 0;
+            for (int i = 0; i < array.Length; i++)
+            {
+                average += array[i];
+            }
+            return average / array.Length;
+        }
+
+    zad4.
+
+    class DrugiZadatak
+    {
+        public static List<char> CalculateUniqueCharacters(string text)
+        {
+            List<char> characters = new List<characters>();
+            for (int i = 0; i < text.Length; i++)
+            {
+                int occurrenceCount = 0;
+                for (int j = 0; j < text.Length; j++)
+                {
+                    if(CalculateOccurrence(text,text[i])==1) 
+                    {
+                    characters.Add(text[i]);
+                    }
+                    
+                }
+                return characters;
+        }
+
+        public static int CalculateOccurrence(string text, char character)
+        {
+            int count = 0;
+            for (int j = 0; j < text.Length; j++)
+            {
+                if (character == text[j])
+                {
+                    count++;
+                }
+            }
+            return count;
+        }
+    }
+
+    zad5.
+    class DrugiZadatak
+    {
+        public List<string> CalculatePalindome(List<string> strings)
+        {
+            List<string> palindromes = new List<string>();
+            if (strings == null) return palindrome;
+            foreach (string str in strings)
+            {
+                
+                //Palindrome
+                if (IsPalindrome(str)
+                {
+                    palindromes.Add(str);
+                }
+            }
+            return palindromes;
+        }
+
+        public bool IsPalindrome(string str)
+        {
+            if(string.IsNullOrEmpty(str)) return false;
+             string trimmed = str.Replace(" ", "").ToLower();
+             string reversed = new string(temp1.Reverse().ToArray());
+             return trimmed.Equals(reversed);
+        }
+    }

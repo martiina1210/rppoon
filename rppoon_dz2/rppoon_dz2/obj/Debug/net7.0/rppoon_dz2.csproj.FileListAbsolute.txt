@@ -1,0 +1,14 @@
+C:\Users\Martina\Desktop\edukos\rppoon\rppoon_dz2\rppoon_dz2\bin\Debug\net7.0\rppoon_dz2.exe
+C:\Users\Martina\Desktop\edukos\rppoon\rppoon_dz2\rppoon_dz2\bin\Debug\net7.0\rppoon_dz2.deps.json
+C:\Users\Martina\Desktop\edukos\rppoon\rppoon_dz2\rppoon_dz2\bin\Debug\net7.0\rppoon_dz2.runtimeconfig.json
+C:\Users\Martina\Desktop\edukos\rppoon\rppoon_dz2\rppoon_dz2\bin\Debug\net7.0\rppoon_dz2.dll
+C:\Users\Martina\Desktop\edukos\rppoon\rppoon_dz2\rppoon_dz2\bin\Debug\net7.0\rppoon_dz2.pdb
+C:\Users\Martina\Desktop\edukos\rppoon\rppoon_dz2\rppoon_dz2\obj\Debug\net7.0\rppoon_dz2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martina\Desktop\edukos\rppoon\rppoon_dz2\rppoon_dz2\obj\Debug\net7.0\rppoon_dz2.AssemblyInfoInputs.cache
+C:\Users\Martina\Desktop\edukos\rppoon\rppoon_dz2\rppoon_dz2\obj\Debug\net7.0\rppoon_dz2.AssemblyInfo.cs
+C:\Users\Martina\Desktop\edukos\rppoon\rppoon_dz2\rppoon_dz2\obj\Debug\net7.0\rppoon_dz2.csproj.CoreCompileInputs.cache
+C:\Users\Martina\Desktop\edukos\rppoon\rppoon_dz2\rppoon_dz2\obj\Debug\net7.0\rppoon_dz2.dll
+C:\Users\Martina\Desktop\edukos\rppoon\rppoon_dz2\rppoon_dz2\obj\Debug\net7.0\refint\rppoon_dz2.dll
+C:\Users\Martina\Desktop\edukos\rppoon\rppoon_dz2\rppoon_dz2\obj\Debug\net7.0\rppoon_dz2.pdb
+C:\Users\Martina\Desktop\edukos\rppoon\rppoon_dz2\rppoon_dz2\obj\Debug\net7.0\rppoon_dz2.genruntimeconfig.cache
+C:\Users\Martina\Desktop\edukos\rppoon\rppoon_dz2\rppoon_dz2\obj\Debug\net7.0\ref\rppoon_dz2.dll
